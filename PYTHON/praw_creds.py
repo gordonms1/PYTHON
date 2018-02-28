@@ -1,0 +1,5 @@
+client_id = '111'
+client_secret = 'test'
+password = '1234'
+user_agent = '1112'
+username = 'abcd'
